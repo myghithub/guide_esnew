@@ -3,54 +3,90 @@
   "kang_zayvius": [      
     {
       "id": "1",
+      "tittle": "Pasang Livery",
+      "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/pasang%20Livery.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlk9KMTzlO375x6oO-8NL923vu3VUaOmwjQ&usqp=CAU"
+     },
+     {
+      "id": "2",
+      "tittle": "Donload Livery",
+      "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/Download%20Livery.html",
+      "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1447.jpg"
+     },
+    {
+      "id": "3",
+      "tittle": "Pergi Ke Bengkel Cat",
+      "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/pergi%20ke%20bengkel%20cat.html",
+      "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1448.jpg"
+     },
+    {
+      "id": "4",
+      "tittle": "Masuk Ke Bengkel Cat",
+      "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/masuk%20bengkel%20cat.html",
+      "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1449.jpg"
+     },
+     {
+      "id": "5",
+      "tittle": "Load Skin",
+      "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/load%20skin.html",
+      "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1450.jpg"
+     },
+     {
+      "id": "6",
+      "tittle": "Keluar Bengkel",
+      "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/keluar%20bengkel.html",
+      "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1451.jpg"
+     },
+    {
+      "id": "7",
       "tittle": "Terakhir Adalah Kamu Harus Fokus Mengumpulkan Uang",
       "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/Terakhir%20Adalah%20Kamu%20Harus%20Fokus%20Mengumpulkan%20Uang.html",
       "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2020/12/1493.jpg"
      },
      {
-      "id": "2",
+      "id": "8",
       "tittle": "Selalu Bijak Dalam Menggunakan Uang",
       "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/Selalu%20Bijak%20Dalam%20Menggunakan%20Uang.html",
       "images": "https://image.winudf.com/v2/image1/Y29tLkVzcHJvamVjdC5FU1RTX3NjcmVlbl80XzE2MDU0ODE1MzdfMDY4/screen-4.jpg?fakeurl=1&type=.jpg"
      },
     {
-      "id": "2",
+      "id": "9",
       "tittle": "Pilihlah Muatan Yang Tepat",
       "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/Pilihlah%20Muatan%20Yang%20Tepat.html",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Ixy08Jj8JiJYIRnwPR1xy_Pki-mrUDkwiQ&usqp=CAU"
      },
     {
-      "id": "3",
+      "id": "10",
       "tittle": "Selalu Berhati-Hati Dalam Membawa Muatan",
       "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/Selalu%20Berhati-Hati%20Dalam%20Membawa%20Muatan.html",
       "images": "https://apkplz.net/storage/images/com/NabilGames/TruckSimulatorID/com.NabilGames.TruckSimulatorID_1.png"
      },
      {
-      "id": "4",
+      "id": "11",
       "tittle": "Selalu Mengikuti Peraturan Lalu Lintas",
       "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/Selalu%20Mengikuti%20Peraturan%20Lalu%20Lintas.html",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEWUDdEBXugVMJcknBnlXqyTkE5b87WQk2tQ&usqp=CAU"
      },
      {
-      "id": "5",
+      "id": "12",
       "tittle": "Game play",
       "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/GAMEPLAY.html",
-      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFEBwOS9mwb_sYikfPgwpXmU8x9VLblRzTA&usqp=CAU"
+      "images": "https://techbigs.com/wp-content/uploads/2021/02/es-truck-simulator-id-apk-latest-version.jpg"
      },
      {
-      "id": "6",
+      "id": "13",
       "tittle": "History",
       "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/HISTORY.html",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDB-P9CLZM6vIv-6zDTg6J9kRTQtXaykHbHw&usqp=CAU"
      },
      {
-      "id": "7",
+      "id": "14",
       "tittle": "About",
       "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/ABOUT.html",
       "images": "https://imag.malavida.com/mvimgbig/download-fs/es-truck-simulator-id-30945-2.jpg"
      },
      {
-      "id": "8",
+      "id": "15",
       "tittle": "Developer",
       "link_html": "https://raw.githubusercontent.com/myghithub/guide_estruck/main/DEVELOVER.html",
       "images": "https://imag.malavida.com/mvimgbig/download-fs/es-truck-simulator-id-30945-2.jpg"
