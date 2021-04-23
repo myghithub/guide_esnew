@@ -1,0 +1,20 @@
+pacagename    com.kangriez.guideestruck
+
+ghithub      https://raw.githubusercontent.com/myghithub/guide_estruck/main/es.json
+
+
+
+
+APP ID   ca-app-pub-6753245672041299~3069498776
+
+BANNER   ca-app-pub-6753245672041299/2318049101
+
+INTERSIAL  ca-app-pub-6753245672041299/5504090425
+
+
+lotie    https://assets2.lottiefiles.com/packages/lf20_8y9IYf.json
+
+slide  https://play-lh.googleusercontent.com/sw2aapnH-wXlEQQWGmBwQ_ghT3IwLLe39bi9u-mW-KLMIEtFxNdo8hCdWqfnns4SmA=s180
+       https://i.ytimg.com/vi/qm47C3H6b78/maxresdefault.jpg
+       https://i.ytimg.com/vi/TMeVCYT-7To/maxresdefault.jpg
+       https://techbigs.com/wp-content/uploads/2021/02/es-truck-simulator-id-apk-free-download.jpg
